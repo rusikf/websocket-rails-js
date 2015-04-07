@@ -15,5 +15,9 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+# Compiled js
 spec/javascripts/generated/*.js
 spec/javascripts/helpers/*.js
+src
+# vim files
+.swp
